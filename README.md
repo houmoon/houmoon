@@ -11,31 +11,23 @@ My GitHub will update the repository that includes a variety of works, **includi
 제 깃허브에서는 **게임 프로그래밍 자습서, 작은 게임 프로젝트들, 토이 프로젝트** 등, 여러가지 작업물이 포함된 저장소가 업데이트 됩니다.
 
 ### You can See (now or later)
-- C++ / C# Programming practice
+- C# Programming practice
 - Unity Game programming project
-- Cocos2d-x Game programming project
-- DirectX Computer graphics project
-- Network Game programming project
 
 ### 이런 것들이 올라옵니다
-- C++ / C# 프로그래밍 프로젝트
+- C# 프로그래밍 프로젝트
 - Unity 게임 프로그래밍 프로젝트
-- Cocos2d-x 게임 프로그래밍 프로젝트
-- DirectX 컴퓨터 그래픽스 프로젝트
-- 네트워크 게임 프로그래밍 프로젝트
 
 ### Career
 
 | Year | Content | Organization  |
 | ---- | ------ | --------- |
-| 2016 ~ 2022 | Department of Game Technology, Digital Content | Dongseo University |
-| 2020 | Client programmer for Unity game project | DDSoft |
+| 2016 ~ 2023 | Department of Game Technology | Dongseo University |
 
 ### 경력
 
 | 년도 | 내용 | 소속  |
 | ---- | ------ | --------- |
-| 2016 ~ 2022 | 디지털콘텐츠 게임테크트랙 전공 | 동서대학교 |
-| 2020 | 유니티 게임 클라이언트 개발 | DDSoft |
+| 2016 ~ 2023 | 소프트웨어융합대학 게임학과 전공 | 동서대학교 |
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=houmoon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
